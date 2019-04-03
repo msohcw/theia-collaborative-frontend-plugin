@@ -1,0 +1,9 @@
+id: bdeleonardis.dummy
+version: 1.0.0
+type: Che Editor
+name: dummy
+title: Dummy Hello World Plugin
+description: Hello World
+icon: https://www.helloworldalbum.net/wp-content/uploads/2018/05/Cover-SKYGGE-for-website-3.jpg
+url: https://github.com/.../che-editor-plugin.tar.gz
+
