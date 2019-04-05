@@ -4,5 +4,5 @@ type: Che Editor
 name: dummy
 title: Dummy Hello World Plugin
 description: Hello World
-url: https://raw.githubusercontent.com/bdeleonardis1/CheTheiaPart2/master/plugins/dummy/1.0.0/meta.yaml
+url: https://raw.githubusercontent.com/bdeleonardis1/CheTheiaPart2/master/assembly/che-dummy-plugin.tar.gz
 
