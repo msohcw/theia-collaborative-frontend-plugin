@@ -4,6 +4,5 @@ type: Che Editor
 name: dummy
 title: Dummy Hello World Plugin
 description: Hello World
-icon: https://www.helloworldalbum.net/wp-content/uploads/2018/05/Cover-SKYGGE-for-website-3.jpg
 url: https://raw.githubusercontent.com/bdeleonardis1/CheTheiaPart2/master/plugins/dummy/1.0.0/meta.yaml
 
