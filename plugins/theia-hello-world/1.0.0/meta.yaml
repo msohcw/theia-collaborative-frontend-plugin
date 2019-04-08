@@ -1,8 +1,0 @@
-id: theia-hello-world
-version: 1.0.0
-type: Che Editor
-name: dummy
-title: Dummy Hello World Plugin
-description: Hello World
-url: https://raw.githubusercontent.com/bdeleonardis1/CheTheiaPart2/master/assembly/che-dummy-plugin.tar.gz
-

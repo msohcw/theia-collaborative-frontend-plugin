@@ -1,3 +1,0 @@
-editors:
-   - id: org.eclipse.che.editor.theia
-     plugins: [theia-hello-world:1.0.0]
